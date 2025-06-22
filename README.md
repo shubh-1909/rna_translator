@@ -10,9 +10,11 @@ This project is a Python-based bioinformatics tool that simulates the process of
 
 ## 🚀 Run in Google Colab
 
-Click the badge below to run this project instantly in Google Colab ⬇️
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/rna_translator.ipynb)
+Click below to open this project instantly in Google Colab ⬇️
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shubh-1909/rna_translator/blob/main/rna_translator.ipynb)
+
 
 ---
 
